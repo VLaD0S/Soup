@@ -1,0 +1,26 @@
+IMPORTANT: Installation commands depend on Operating System. Look online for any help on how to install/run these thigs.
+
+1. Install GIT on your machine
+
+2. Create a folder called "Soup"
+
+3. Inside the folder, clone the repository found at "https://github.com/VLaD0S/Soup" using "git clone"
+
+4. Install "pip" for python 3.5 or higher
+
+5. Install "virtualenv" for pip
+
+6. Create a virtual environment called "env" in the same folder with the "coder.py" file and the "requirements.txt" file
+
+7. Activate the virtual environment. Command may be different on your operating system.
+
+8. Once inside the virutal environment, run the command "pip install -r requirements.txt"
+
+9. Now you can run the command "python coder.py" for the password :)
+
+10. Deactivate the virtual environment once you're done.
+
+11. HOMEWORK: Try to understand all these shenannigans. It's very good practice 
+
+
+
